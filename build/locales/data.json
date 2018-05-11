@@ -1,0 +1,11 @@
+{
+  "en": {
+    "Page1.message1": "first message translated by, {name}!"
+  },
+  "de": {
+    "Page1.message1": "erste Nachricht übersetzt von, {name}!"
+  },
+  "fr": {
+    "Page1.message1": "Premier message traduit par, {name}!"
+  }
+}
